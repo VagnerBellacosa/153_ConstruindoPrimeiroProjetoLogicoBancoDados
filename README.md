@@ -1,6 +1,7 @@
-# 153_ConstruindoPrimeiroProjetoLogicoBancoDados
-Neste desafio, iremos replicar a modelagem do projeto lógico de banco de dados para um cenário de e-commerce.
+# LABS
 
+## 153_ConstruindoPrimeiroProjetoLogicoBancoDados
+Neste desafio, iremos replicar a modelagem do projeto lógico de banco de dados para um cenário de e-commerce.
 
 
 ###### DESCRIÇÃO
@@ -26,6 +27,3 @@ Neste desafio, iremos replicar a modelagem do projeto lógico de banco de dados 
 Data Scientist, DIO[**](https://www.linkedin.com/in/juliana-mascarenhas-00349426/)
 
 https://web.dio.me/lab/construindo-seu-primeiro-projeto-logico-de-banco-de-dados/learning/30ffb3b9-3e87-4471-b256-71f733a32ae7
-
-
-
